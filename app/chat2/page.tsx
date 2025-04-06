@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button";
 import ReactMarkdown from "react-markdown";
 import { useSearchParams } from "next/navigation";
 
-const GEMINI_API_KEY = "AIzaSyDs65xqMPGHcBh4ymiIHCGz57327Y67fYk";
+const GEMINI_API_KEY = "xxx";
 
 type Message = {
   role: string;

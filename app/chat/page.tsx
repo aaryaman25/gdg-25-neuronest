@@ -5,7 +5,7 @@ import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import ReactMarkdown from "react-markdown";
 
-const GEMINI_API_KEY = "AIzaSyDs65xqMPGHcBh4ymiIHCGz57327Y67fYk";
+const GEMINI_API_KEY = "xxx";
 
 type Message = {
   role: string;
